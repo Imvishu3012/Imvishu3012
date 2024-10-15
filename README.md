@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishal Prajapati</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="ff01464b-3f68-46de-9fa3-c9d7156a326f (1).webp" />
-
+img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fvectors%2Fbusiness-using-computer%2F23&psig=AOvVaw22koWDrBW2Wcs1n0V6q4VH&ust=1729091071931000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKDrwcrUkIkDFQAAAAAdAAAAABAE"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imvishu3012&label=Profile%20views&color=0e75b6&style=flat" alt="imvishu3012" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imvishu3012" alt="imvishu3012" /></a> </p>
