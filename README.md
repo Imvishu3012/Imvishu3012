@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishal Prajapati</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-img align="right" alt="Coding" width="400" src="file:///C:/Users/Imvis/Downloads/My%20Recent%20Downloads/ff01464b-3f68-46de-9fa3-c9d7156a326f%20(1).webp"
+<img align="right" alt="Coding" width="400" src="ff01464b-3f68-46de-9fa3-c9d7156a326f (1).webp" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imvishu3012&label=Profile%20views&color=0e75b6&style=flat" alt="imvishu3012" /> </p>
 
