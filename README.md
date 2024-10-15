@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishal Prajapati</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F3848914-Programmer-Thomas%2Fattachments%2F10055456%3Fmode%3Dmedia&psig=AOvVaw3JjP6e-ks04BZZPfrFROPZ&ust=1729092517035000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCICGpdrZkIkDFQAAAAAdAAAAABAE" alt="Description of the image">
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Description of the image">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imvishu3012&label=Profile%20views&color=0e75b6&style=flat" alt="imvishu3012" /> </p>
 
