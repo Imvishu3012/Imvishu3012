@@ -21,7 +21,7 @@
   <a href="https://twitter.com/imvishu18" target="blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="www.linkedin.com/in/vishal-prajapati-196b12190" target="blank">
+  <a href="https://www.linkedin.com/in/vishal-prajapati-196b12190/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/imvishu3012" target="blank">
