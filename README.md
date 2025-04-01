@@ -54,7 +54,7 @@
 
 <h2 align="left">Achievements:</h2>
 <ul>
-  <li>🏆 Javascript Projects Certificate By Great Learning- <a href="https://drive.google.com/file/d/1YjSk8sIa6oKZKja2eoHJatdRN5Or2GV7/view?usp=drive_link" target="_blank">View Certificate</a></li>
+  <li>🏆 Javascript Projects Certificate By Great Learning- <a href="https://olympus.mygreatlearning.com/courses/47896/certificate?pb_id=581" target="_blank">View Certificate</a></li>
   <li>📚 Completed 100+ LeetCode Problems</li>
   <li>🎨 Contributed to Open Source Projects</li>
 </ul>
