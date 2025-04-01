@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imvishu3012&label=Profile%20views&color=0e75b6&style=flat" alt="imvishu3012" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imvishu3012" alt="imvishu3012" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/imvishu18" target="blank"><img src="https://img.shields.io/twitter/follow/imvishu18?logo=twitter&style=for-the-badge" alt="imvishu18" /></a> </p>
 
 - 💬 Ask me about **AWS,React,Javascript,Devops**
