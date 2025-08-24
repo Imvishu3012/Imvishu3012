@@ -54,7 +54,9 @@
 
 <h2 align="left">Achievements:</h2>
 <ul>
-  <li>🏆 Javascript Projects Certificate By Great Learning- <a href="https://drive.google.com/file/d/1YjSk8sIa6oKZKja2eoHJatdRN5Or2GV7/view?usp=sharing">View Certificate</a></li>
-  <li>📚 Completed 100+ LeetCode Problems</li>
+ <li>🏆 Certified in <strong>JavaScript Projects</strong> by Great Learning – Hands-on experience in building real-world JavaScript applications. <a href="https://drive.google.com/file/d/1YjSk8sIa6oKZKja2eoHJatdRN5Or2GV7/view?usp=sharing" target="_blank">View Certificate</a></li>
+
+<li>🏆 <strong>Namaste React Certified</strong> – Completed an advanced React.js course by Akshay Saini, mastering component architecture, hooks, and performance optimization. <a href="https://drive.google.com/file/d/1-NUElwicnnwo1aId7lhyO17ynK5HcRO2/view?usp=sharing" target="_blank">View Certificate</a></li>
+
   <li>🎨 Contributed to Open Source Projects</li>
 </ul>
