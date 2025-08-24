@@ -1,5 +1,6 @@
-<h1 align="center">Vishal Prajapati</h1>
-<h3 align="center">Frontend Developer | React.js | Cloud & DevOps Learner</h3>
+<h2 align="center">Vishal Prajapati</h2>
+<h3 align="center">Frontend Developer | React.js | Next.js | TypeScript | Tailwind CSS</h3>
+
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Coding animation">
